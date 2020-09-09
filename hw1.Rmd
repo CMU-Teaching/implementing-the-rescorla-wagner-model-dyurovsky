@@ -1,0 +1,56 @@
+---
+title: "HW1 - The Rescorla-Wagner model"
+author: "Your name"
+date: "Date of submission"
+output: 
+html_document: 
+highlight: tango
+theme: spacelab
+---
+
+```{r setup, include = FALSE}
+# DO NOT ALTER CODE IN THIS CHUNK
+
+# Note: if you have not yet installed the tidyverse package, you will to run
+# install.packages("tidyverse")
+
+library(tidyverse)
+```
+
+* * *
+
+#### Problem 1: 
+
+*No need to write code here--just replace this text with your explanation*
+
+#### Problem 2:
+
+```{r rw-delta-v}
+rw_delta_v <- function(V, Vtotal, alpha = .1, lambda = 1) {
+  # your code goes here
+}
+```
+
+#### Problem 3:
+
+```{r conditioning}
+# enter your code for Problem 3 here
+```
+
+#### Problem 4:
+
+```{r extinction}
+# enter your code for Problem 4 here
+```
+
+#### Problem 5:
+
+```{r blocking}
+# enter your code for Problem 5 here
+```
+
+#### Problem 6:
+
+```{r conditioned-inhibition}
+# enter your code for Problem 6 here
+```
